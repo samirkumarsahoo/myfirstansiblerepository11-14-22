@@ -1,0 +1,24 @@
+--- 
+- students:
+   - name: samir
+     phone: 8787890909
+     address: orissa
+        doorno: 2
+        streetno: 35
+        pin code: 752102
+
+
+   - name: Bunty
+     phone: 0909087869
+     address: Mumbai
+        doorno: 5
+        streetno: 30
+        pincode: 521631
+
+
+    - name: umakanta
+      phone: 987890980
+      address: delhi
+         doorno: 5
+         streetno: 10
+         pincodeno: 454125
